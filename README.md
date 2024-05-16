@@ -1,11 +1,11 @@
-# Social Media, PremjiInvest
+# Social wall, PremjiInvest
 
 ## Installation
 
 To run this project in your local PC
 ```bash  
   clone Repo
-  cd socialMedia
+  cd social-wall
 ```
 
 
