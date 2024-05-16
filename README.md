@@ -2,7 +2,7 @@
 ![image](https://github.com/komals21/social-wall/assets/106916514/c165a505-1403-4290-ab97-ce072190e574)
 ### Profile, Notification , Logout
 ![image](https://github.com/komals21/social-wall/assets/106916514/e9832c5b-96a1-4a63-809f-5db1dc67fc65)
-###Comment on a post
+### Comment on a post
 ![image](https://github.com/komals21/social-wall/assets/106916514/246181c8-a9b7-4b69-8dba-683fddd0896b)
 ### Add a post by New Post
 ![image](https://github.com/komals21/social-wall/assets/106916514/67f2194f-6f53-4b18-b7b2-8cf0deddf0c0)
