@@ -1,0 +1,138 @@
+.home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+  }
+
+  .home1{
+    
+    background-color: rgb(18, 17, 15);
+    color: white;
+    min-height: calc(100vh - 60px);
+    height: 100%;
+  }
+
+  .post-container {
+    position: relative;
+  }
+  
+  .heading {
+    top: 0;
+    left: 0;
+    margin: 0;
+  }
+.textarea-container {
+    display: flex;
+    flex-direction: column;
+}
+  
+
+.post{
+    border:1px solid #918a8a;
+   border-radius: 10px;  
+}
+
+
+
+.appointments {    
+    text-align: center;   
+}
+
+.appointment-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.post-box {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 5px 10px;
+    margin: 18px auto;
+    min-width: 50%;
+    width: fit-content;
+    background-color: #060c08; /* Change the background color */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+    font-size: 18px; /* Increase the font size */
+    position: relative;
+    
+}
+
+.post-box:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.delete{
+    background-color: #060c08;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    position: absolute;
+    top: -0.30rem;
+    left: 50rem;
+}
+
+.like{
+    background-color: #060c08;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    position: absolute;
+    top: -0.30rem;
+    left: 56rem;
+}
+
+.comment{
+    background-color: #060c08;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    position: absolute;
+    top: -0.30rem;
+    left: 53rem;
+}
+.share{
+    background-color: #060c08;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    position: absolute;
+    top: -0.30rem;
+    left: 59rem;
+}
+
+
+.allPosts{
+    margin: auto;
+}
